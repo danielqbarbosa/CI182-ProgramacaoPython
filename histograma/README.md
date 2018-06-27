@@ -1,8 +1,19 @@
 **UNIVERSIDADE FEDERAL DO PARANÁ**  
 Departamento Informática – DInf  
 Disciplina: **CI182 – Fundamento de Programação de Computadores**  
-Professor: Jackson Antonio do Prado Lima  
-  
+Professor: Jackson Antonio do Prado Lima (japlima@inf.ufpr.br)  
+
+Autores:  
+ Enrico Silva (GRR20142316)  
+ Ana Paula Santos Rodrigues (GRR20176366)   
+ Ana Maria Deminciano Lima (GRR20140289)  
+
+Suporte técnico (monitor voluntário :) )  
+ Daniel de Queiroz Barbosa (danielbarbosa@ufpr.br)  
+
+# Analisador de Amostras (Histograma)  
+Um programa que permite analisar amostras e gerar a tabela de frequências e histograma. 
+ 
 ## Definição  
 Com base no esqueleto de código do arquivo **CI182-projeto-template.py**, faça um programa que leia um arquivo com dados amostrais (contendo uma amostra decimal por linha), calcule e imprima:
 1. Tabela de Frequência
